@@ -1,16 +1,4 @@
-/*
 
-  Harjoitus 1
-
-  Optimoi sini-funktion käsittely. Älä muuta kääntäjäoptioita.
-  Vertaa alkuperäistä ja optimoitua versiota:
-
-  - kuinka paljon enemmän muistia optimoitu versio kuluttaa?
-  - kuinka paljon nopeammin optimoitu versio toimii?
-
-  Käännös: gcc sin.c -lm -o sin
-
-*/
 
 #include <stdio.h>
 #include <time.h>
